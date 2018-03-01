@@ -1,0 +1,2 @@
+this is the gittest2.txt file
+let's learn git together.
